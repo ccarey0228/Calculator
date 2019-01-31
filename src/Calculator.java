@@ -9,6 +9,7 @@ public class Calculator {
 
         return num1 - num2;
     }
+    //git merge conflict tools
     
       public static double divide(double num1, double num2) {
 
